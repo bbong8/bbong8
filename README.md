@@ -13,7 +13,8 @@
 - [Principes](https://github.com/Principes-Artis-Mechanicae) / 2023.07 -
 
 ---
-
+#### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdqhdrl612)](https://solved.ac/ghdqhdrl612)
 
+#### Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bbong8)](https://velog.io/@bbong8)

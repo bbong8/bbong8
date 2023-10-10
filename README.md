@@ -10,7 +10,7 @@
 - 경북대학교 IT대학 컴퓨터학부 / 2023.03 -
 
 ### 🔥 활동
-- [Principes](https://github.com/Principes-Artis-Mechanicae) / 2023.07 -
+- [Principes](https://github.com/Principes-Artis-Mechanicae) FE 개발자 / 2023.07 -
 
 ---
 #### BOJ

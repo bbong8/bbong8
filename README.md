@@ -13,8 +13,6 @@
 #### BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdqhdrl612)](https://solved.ac/ghdqhdrl612)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbong8)](https://solved.ac/bbong8)
-
 #### Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bbong8)](https://velog.io/@bbong8)
 
